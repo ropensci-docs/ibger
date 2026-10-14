@@ -1,0 +1,12 @@
+pandoc: 3.8.3
+pkgdown: 2.2.1
+pkgdown_sha: ~
+articles:
+  api-concepts: api-concepts.html
+  getting-started: getting-started.html
+  ipca-example: ipca-example.html
+  tutorial: tutorial.html
+last_built: 2026-10-14T13:58Z
+urls:
+  reference: https://docs.ropensci.org/ibger/reference
+  article: https://docs.ropensci.org/ibger/articles

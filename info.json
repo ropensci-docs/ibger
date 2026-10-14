@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "b6c58f1324876219198484332af0f957715edefe",
+    "author": "André Leite <leite@de.ufpe.br>",
+    "time": "2026-10-14T12:34:34Z",
+    "files": 1,
+    "merge": false,
+    "message": "Restructure JOSS paper to the current required sections\n\nJOSS now requires \"State of the field\", \"Software design\", \"Research\nimpact statement\" and \"AI usage disclosure\". The sidrar/ecosystem\ncomparison moves to State of the field, Design and implementation\nbecomes Software design (with the census example as a subsection), and\nthe two new sections are added. Also: ORCID for Marcos Wasiliew, date,\nand thanks to the rOpenSci editor and reviewers.\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\n"
+  },
+  "repo": "https://github.com/ropensci/ibger",
+  "pkg": "ibger",
+  "time": "2026-10-14T13:58:54Z"
+}
